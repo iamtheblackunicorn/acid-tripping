@@ -1,6 +1,6 @@
 # ACID TRIPPING :rainbow: :pill:
 
-***A trippy theme for the Acid static-site generator.***
+***A trippy theme for the Acid static-site generator.:rainbow: :pill:***
 
 ## ABOUT :books:
 
