@@ -1,0 +1,25 @@
+on: [push]
+name: Acid Tripping CI
+jobs:
+  build_and_test:
+    name: Acid Tripping CI
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - name: Clone Acid
+        run: git clone https://github.com/iamtheblackunicorn/acid && cd acid
+      - uses: actions-rs/cargo@v1
+        with:
+          command: build
+          args: --release
+
+    #  - name: Checking.
+    #    run: tree site/build
+    #  - name: Deploy
+    #    uses: JamesIves/github-pages-deploy-action@v4.2.5
+    #    with:
+    #      branch: gh-pages
+    #      folder: site/build
