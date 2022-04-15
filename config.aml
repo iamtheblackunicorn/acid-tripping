@@ -1,0 +1,4 @@
+'name' => 'acid-tripping'
+'version' => '1.0.0'
+'type' => 'theme'
+'assets_path' => 'assets'
