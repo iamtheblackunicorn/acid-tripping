@@ -6,9 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      #- uses: actions-rs/toolchain@v1
-      #  with:
-      #    toolchain: stable
+
       - name: Clone Acid
         run: git clone https://github.com/iamtheblackunicorn/acid && cd acid
       - uses: actions-rs/cargo@v1
