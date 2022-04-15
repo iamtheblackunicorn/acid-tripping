@@ -11,13 +11,9 @@ The theme is based off of my mixed blog [here](https://angeldustduke.art). Learn
 
 To use ***Acid Tripping*** in your ***Acid*** site, add these lines to your `config.json`:
 
-```JSON
-{
-  ...
-  "theme":"https://github.com/iamtheblackunicorn/acid-tripping",
-  "use_remote_theme":"true",
-  ...
-}
+```text
+'theme' => 'https://github.com/iamtheblackunicorn/acid-tripping'
+'use_remote_theme' => 'true'
 ```
 
 ## USAGE :pick:
