@@ -26,19 +26,19 @@ The following variables should be set in your `config.json`:
 - `keywords`: The SEO keywords for search engines to index your site.
 - `description`: The SEO description for search engines to index your site.
 - `profile_pic`: The leading image, should be a square.
-- `57_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `60_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `72_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `76_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `114_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `120_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `144_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `152_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `180_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `192_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `32_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `96_icon`: An icon hosted not locally, but remotely of the given width and height.
-- `json_manifest`: Your site's JSON manifest. Also hosted remotely.
+
+- `fifty_seven_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `sixty_icon`_: An icon hosted not locally, but remotely of the given width and height.
+- `seven_two_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `seven_six_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `one_one_four_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `one_two_zero_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `one_four_four_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `one_five_two_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `one_eight_zero_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `one_nine_two_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `thirty_two_icon`: An icon hosted not locally, but remotely of the given width and height.
+- `nine_six_icon`: An icon hosted not locally, but remotely of the given width and height.
 - `social_media_image_title`: The title of your OG social media image.
 - `social_media_image`: The image of your site, for social media sites. This should also be hosted remotely.
 - `google_analytics_id`: Your Google Analytics ID.
